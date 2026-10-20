@@ -1,0 +1,16 @@
+{
+  "name": "dubai-car-index",
+  "description": "Dubai car prices for Claude: new list prices, used values, rental rates and repair costs, sourced and dated.",
+  "owner": {
+    "name": "Dubai Car Index",
+    "url": "https://dubaicarindex.com"
+  },
+  "plugins": [
+    {
+      "name": "dubai-car-index",
+      "source": "./",
+      "description": "Dubai car prices from Dubai Car Index: UAE new-car list prices by trim, used values by year and mileage, a fair-price check for any asking price, rental rates and repair costs. Every list price carries its source and the date it was checked; every modelled figure says it is one.",
+      "version": "1.0.0"
+    }
+  ]
+}

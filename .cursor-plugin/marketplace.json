@@ -1,0 +1,13 @@
+{
+  "name": "dubai-car-index",
+  "owner": {
+    "name": "Dubai Car Index",
+    "url": "https://dubaicarindex.com"
+  },
+  "plugins": [
+    {
+      "name": "dubai-car-index",
+      "source": "./"
+    }
+  ]
+}
