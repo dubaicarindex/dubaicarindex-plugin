@@ -70,7 +70,7 @@ connector.
 
 ## Sign-in and the data it sends
 
-Connecting opens a browser sign-in to a free Dubai Car Index account (OAuth
+Connecting opens a browser sign-in to a Dubai Car Index account (OAuth
 2.1): an email address and a sign-in link or code, no password and no API key.
 The plugin requests read access to published price data. Every tool reads;
 none writes.
