@@ -36,10 +36,10 @@
     "com.openai": {
       "interface": {
         "displayName": "Dubai Car Index",
-        "shortDescription": "UAE car prices: new, used, rental, repair",
+        "shortDescription": "Car prices: buy, rent, repair",
         "longDescription": "Ask what a car in Dubai should cost, to buy new or used, to rent or to repair, using Dubai Car Index. Buyers, renters and owners use it to check a price before they talk to a dealer, a seller, a rental desk or a garage.\n\nLook up UAE list prices for 500+ models across 40+ brands, trim by trim. Get a modelled used value for any model year and mileage, and check whether an asking price is below, within or above the fair range. Compare daily, weekly and monthly rental rates, and dealer versus independent garage prices for common services. Compare cars side by side on price, value loss, rent and servicing.\n\nEvery list price carries its source and the date it was checked. Used values, rental rates and repair bands are models built from those prices and published quotes; the methodology says how, and every answer says which kind of figure it is.\n\nUAE only, Dubai prices. Figures are guides, not offers: confirm with the dealer, seller, rental company or garage before you pay. The plugin does not buy, sell, book or pay for anything, and it does not value a specific car's condition or history. A Dubai Car Index account is required to connect.",
         "developerName": "Dubai Car Index",
-        "category": "Lifestyle",
+        "category": "Finance",
         "capabilities": [
           "UAE new-car list prices by trim",
           "Used values by model year and mileage",
