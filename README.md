@@ -33,7 +33,7 @@ that tell it how to quote the figures correctly.
 | `.codex-plugin/plugin.json` | Manifest for OpenAI Agents API sessions; points at `skills/` and `.mcp.json` |
 | `.cursor-plugin/` | Cursor manifest and marketplace entry |
 | `.grok-plugin/` | Grok manifest |
-| `assets/` | Icon |
+| assets/ | Icon (PNG and SVG) |
 
 The skills are plain Markdown instructions. The plugin ships no scripts, hooks
 or executables and installs no packages.
@@ -78,9 +78,10 @@ none writes.
 The plugin talks to one server, `dubaicarindex.com`. When the assistant calls a
 tool, the tool's arguments, such as a brand, a model, a model year, a mileage
 or an asking price, are sent to that server. Dubai Car Index records each tool
-call in its product analytics (PostHog): the tool name, its arguments, timing,
-errors, the AI client's name and your account identifier. It does not record
-its answers. Nothing else from your conversation or your machine is sent. See
+call in its product analytics (PostHog): the tool name, its arguments, how long
+the answer took and how large it was, errors, the AI client's name and your
+account identifier. It does not record its answers. Nothing else from your
+conversation or your machine is sent. See
 the [privacy policy](https://dubaicarindex.com/privacy).
 
 ## Scope

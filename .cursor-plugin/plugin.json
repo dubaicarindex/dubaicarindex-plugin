@@ -1,12 +1,11 @@
 {
   "name": "dubai-car-index",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Dubai car prices from Dubai Car Index: UAE new-car list prices by trim, used values by year and mileage, a fair-price check for any asking price, rental rates and repair costs. Every list price carries its source and the date it was checked; every modelled figure says it is one.",
   "logo": "assets/icon.png",
   "author": {
     "name": "Dubai Car Index",
-    "email": "hello@dubaicarindex.com",
-    "url": "https://dubaicarindex.com"
+    "email": "hello@dubaicarindex.com"
   },
   "homepage": "https://dubaicarindex.com/docs/mcp",
   "repository": "https://github.com/dubaicarindex/dubaicarindex-plugin",
@@ -31,6 +30,5 @@
     "rent a car",
     "car service cost",
     "aed"
-  ],
-  "displayName": "Dubai Car Index"
+  ]
 }
