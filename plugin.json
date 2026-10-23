@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "dubai-car-index",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Dubai car prices from Dubai Car Index: UAE new-car list prices by trim, used values by year and mileage, a fair-price check for any asking price, rental rates and repair costs. Every list price carries its source and the date it was checked; every modelled figure says it is one.",
   "author": {
     "name": "Dubai Car Index",
